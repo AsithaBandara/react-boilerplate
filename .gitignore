@@ -1,0 +1,14 @@
+/node_modules
+/build
+*.log
+
+#IntelliJ / VSCode related files
+.vscode
+*.iml
+.idea
+
+*DS_Store
+
+.env
+
+node_modules
